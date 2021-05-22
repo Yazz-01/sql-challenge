@@ -77,8 +77,10 @@ FROM employees
 GROUP BY last_name
 ORDER BY "Count of employee last names" DESC;
 
---FOR BONUS-> SALARY RANGES PER EMPLOYEE TITLE
+--FOR BONUS-> 
 
+--1. SALARY RANGES PER EMPLOYEE TITLE
+CREATE VIEW "Salary_Ranges_per_Employee_Title" AS
 SELECT s.salary, t.title
 FROM salaries AS s
 JOIN employees e
@@ -86,3 +88,4 @@ ON e.emp_no = s.emp_no
 JOIN title t
 ON e.emp_title_id = t.title_id
 
+SELECT * FROM "Salary_Ranges_per_Employee_Title";
