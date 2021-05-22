@@ -1,6 +1,8 @@
---DATA ANALYSIS
+--DATA ANALYSIS USING QUERIES TO FIND OUT INSIGHTFUL INFORMATION 
+--FROM THE DATA FROM THE COMPANY
 
---1. List the following details of each employee: employee number, last name, first name, 
+
+--List the following details of each employee: employee number, last name, first name, 
 --sex, and salary.
 
 SELECT e.emp_no, e.first_name, e.last_name, e.sex, s.salary
