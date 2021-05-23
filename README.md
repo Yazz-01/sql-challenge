@@ -66,16 +66,17 @@ Import the SQL database into Pandas to read the CSVs directly in Pandas, to prov
 
 1. Created a histogram to visualize the most common salary ranges for employees.
 
+
 2. Created a bar chart of average salary by title.
 
 
 3. Created an image file of your ERD.
 
 
-4. Created a .sql file of your table schemata.
+4. Created a .sql file of table schemata.
 
 
-5. Created a .sql file of your queries.
+5. Created a .sql file of queries.
 
 
 
