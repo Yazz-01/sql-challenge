@@ -1,6 +1,6 @@
-![PostgreSQL_PythonAlchemy.pdf](https://github.com/Yazz-01/sql-challenge/files/6527354/PostgreSQL_PythonAlchemy.pdf)
+![PostgreSQL_PythonAlchemy](database.png)
 # sql-challenge
-Project using Postgre SQL
+    Project using Postgre SQL
 
 This project helped a company by giving Data Engineering support. 
 
@@ -12,7 +12,9 @@ I designed the tables to hold data in the CSVs, imported the CSVs into a SQL dat
 
 *Data Analysis
 
-  Starting Point
+
+
+      Starting Point
 
 *Data Engineering
 
