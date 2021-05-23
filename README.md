@@ -1,4 +1,5 @@
-![PostgreSQL_PythonAlchemy](database.png)
+![database](https://user-images.githubusercontent.com/79778345/119245107-2f3eaa80-bb3c-11eb-967d-f1dbac70a78b.png)
+
 # sql-challenge
     Project using Postgre SQL
 
