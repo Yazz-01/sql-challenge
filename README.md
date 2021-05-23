@@ -1,3 +1,3 @@
 # sql-challenge
 Project using Postgre SQL
-![descripcion de la imagen]()
+![Image of SQL and Data Analysis](PostgreSQL_PythonAlchemy.pdf)
